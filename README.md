@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Simon Torres's GitHub stats](https://github-readme-stats.vercel.app/api?username=simontorres&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Simón Torres's GitHub stats](https://github-readme-stats-simontorres1.vercel.app/api?username=simontorres&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **simontorres/simontorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
